@@ -27,7 +27,7 @@ ADMINS = [
     for admin in environ.get("ADMINS", "6286894502").split()
 ]
 OWNER_USERNAME = environ.get(
-    "OWNER_USERNAME", "RishuBots"
+    "OWNER_USERNAME", "RishuBotz_Bot"
 )  # without @ or https://t.me/rishuBotz_Bot
 USERNAME = environ.get("USERNAME", "Rishubhai1")  # ADMIN USERNAME
 
